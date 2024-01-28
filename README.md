@@ -63,10 +63,7 @@ Here are some ideas to get you started:
 								<h2 class="major">Me</h2>
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
 								<p> <p align="justify"> 🌼✨Hi, I'm Morgan! I received my Master of Science with a concentration in Geology in 2017 from Georgia State University. My thesis focused on the microstructures of sedimentary basins. This research aimed to aid in the understanding of migration pathways, diagenesis, and kinetics at play in the mid-continental US. <br> <br> 
-	🌱🔭 
-I currently serve as the GIS Urban Forestry Analyst for an urban forestry firm. My primary responsibility is perform various analysis on remotely-sensed land cover data to produce a wide range of materials, including fact sheets, technical reports, custom maps, infographics, and Esri StoryMaps.
-
-One of the key aspects of my role is staying updated with the latest technologies and implementing them to support the production of urban tree canopy assessments. This includes effective spatial data management, including geoprocessing tasks, data conversions between raster and vector formats, and statistical analysis, with a specific focus on natural resources datasets.
+	🌱🔭 I currently serve as the GIS Urban Forestry Analyst for an urban forestry firm. My primary responsibility is perform various analysis on remotely-sensed land cover data to produce a wide range of materials, including fact sheets, technical reports, custom maps, infographics, and Esri StoryMaps. One of the key aspects of my role is staying updated with the latest technologies and implementing them to support the production of urban tree canopy assessments. This includes effective spatial data management, including geoprocessing tasks, data conversions between raster and vector formats, and statistical analysis, with a specific focus on natural resources datasets.
 
 In addition to my technical responsibilities, I play a vital role in fostering innovation within the company. I regularly generate fresh ideas for client solutions and continuously work on improving existing processes. I'm also involved in creating standard operating procedures and accompanying documentation to streamline our operations and ensure consistency.
 
