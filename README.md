@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🌱🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -62,13 +62,21 @@ Here are some ideas to get you started:
 							<article id="Me">
 								<h2 class="major">Me</h2>
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
-								<p> <p align="justify"> 🌼Hi, I'm Morgan! I received my Master of Science with a concentration in Geology in 2017 from Georgia State University. My thesis focused on the microstructures of sedimentary basins. This research aimed to aid in the understanding of migration pathways, diagenesis, and kinetics at play in the mid-continental US. <br> <br>
-									🌎🛰️Through Esri, I am currently pursuing the Entry ArcGIS Desktop technical certification and have completed Esri courses such as Fundamentals of Mapping and Visualization, Creating Python Scripts for Raster Analysis, and Data QC with ArcGIS. I am making daily strides to become a well-rounded cartographer in an environment that challenges my ability to interpret and analyze the stratigraphy of our diverse planet.
+								<p> <p align="justify"> 🌼✨Hi, I'm Morgan! I received my Master of Science with a concentration in Geology in 2017 from Georgia State University. My thesis focused on the microstructures of sedimentary basins. This research aimed to aid in the understanding of migration pathways, diagenesis, and kinetics at play in the mid-continental US. <br> <br> 
+	🌱🔭 
+I currently serve as the GIS Urban Forestry Analyst for an urban forestry firm. My primary responsibility is perform various analysis on remotely-sensed land cover data to produce a wide range of materials, including fact sheets, technical reports, custom maps, infographics, and Esri StoryMaps.
+
+One of the key aspects of my role is staying updated with the latest technologies and implementing them to support the production of urban tree canopy assessments. This includes effective spatial data management, including geoprocessing tasks, data conversions between raster and vector formats, and statistical analysis, with a specific focus on natural resources datasets.
+
+In addition to my technical responsibilities, I play a vital role in fostering innovation within the company. I regularly generate fresh ideas for client solutions and continuously work on improving existing processes. I'm also involved in creating standard operating procedures and accompanying documentation to streamline our operations and ensure consistency.
+
+Furthermore, I take on a leadership role by leading and facilitating client and stakeholder meetings and presentations. This involves effective communication both within our team and externally with clients to gather technical requirements and enhance the development of geospatial technology products and services. Overall, my role is dynamic, involving a wide array of technical skills, innovation, and client interaction to contribute effectively to natural resource management initiatives.  <br> <br>
+									🌎🛰️Through Esri, I have recieved my ArcGIS Pro technical certification and have completed Esri courses such as Fundamentals of Mapping and Visualization, Creating Python Scripts for Raster Analysis, and Data QC with ArcGIS. I am making daily strides to become a well-rounded cartographer in an environment that challenges my ability to interpret and analyze the landcover of our diverse planet.
 									<br><br>
-									🏕️🐦In my free time, you can find me in the Blue Ridge mountains trying to identify a bird as it zooms past.
+									🏕️🐦In my free time, you can find me hiking the Rocky Mountains trying to identify a bird as it zooms past.
 
 <h2 class="major">Connect With Me</h2>
-								<p> Check out my adventure blog <a href="#work">wildwonderfulweird.com</a>  <br><br>
+								
 									Connect with me on Linked-in  <a href="#work">www.linkedin.com/in/M0j0j0Maps</a> .</p>
 
 							</article>
